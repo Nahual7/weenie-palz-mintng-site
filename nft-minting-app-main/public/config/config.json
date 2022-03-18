@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbb2b5FB7959fc099B71d73Cd1732D548f62D3213",
+  "SCAN_LINK": "https://polygonscan.com/address/0xbb2b5fb7959fc099b71d73cd1732d548f62d3213",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Weenie Palz",
+  "SYMBOL": "WPALZ",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.71,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
